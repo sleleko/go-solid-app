@@ -1,4 +1,4 @@
-module example/solid
+module go-order-solid
 
 go 1.25.5
 
